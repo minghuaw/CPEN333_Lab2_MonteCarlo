@@ -1,0 +1,10 @@
+﻿  pi.cpp
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(9): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(164): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(181): warning C4018: '<': signed/unsigned mismatch
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(186): warning C4018: '<': signed/unsigned mismatch
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(195): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(212): warning C4018: '<': signed/unsigned mismatch
+d:\workspaces\workspace_cpp\cpen333_lab2_montecarlo\cpen333_lab2_montecarlo\pi.cpp(218): warning C4018: '<': signed/unsigned mismatch
+  CPEN333_Lab2_MonteCarlo.vcxproj -> D:\Workspaces\Workspace_Cpp\CPEN333_Lab2_MonteCarlo\Debug\CPEN333_Lab2_MonteCarlo.exe
+  CPEN333_Lab2_MonteCarlo.vcxproj -> D:\Workspaces\Workspace_Cpp\CPEN333_Lab2_MonteCarlo\Debug\CPEN333_Lab2_MonteCarlo.pdb (Partial PDB)

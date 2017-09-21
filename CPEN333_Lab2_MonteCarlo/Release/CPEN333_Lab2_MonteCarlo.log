@@ -1,0 +1,4 @@
+﻿  MonteCarlo_Random.cpp
+MonteCarlo_Random.cpp(8): warning C4244: 'argument': conversion from 'std::chrono::system_clock::rep' to 'unsigned int', possible loss of data
+MonteCarlo_Random.obj : error LNK2005: _main already defined in MonteCarlo_Random.obj
+D:\Workspaces\Workspace_Cpp\CPEN333_Lab2_MonteCarlo\Release\CPEN333_Lab2_MonteCarlo.exe : fatal error LNK1169: one or more multiply defined symbols found
